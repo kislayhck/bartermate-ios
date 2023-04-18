@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BarterMate.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1B71F19EC7DDEC8CE372198B8040FECCB038DE3E</string>
+				<key>dateExpires</key>
+				<string>22/04/23</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1B71F19EC7DDEC8CE372198B8040FECCB038DE3E</string>
+						<key>dateExpires</key>
+						<string>22/04/23</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>OpenSSL.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NTF3LM6S98</string>
+						<key>name</key>
+						<string>SANITYG GLOBAL SYSTEM PRIVATE LIMITED</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.1.180</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NTF3LM6S98.org.reactjs.native.example.TrashToCrash</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NTF3LM6S98</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>BarterMate.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6922037e-31d0-4bc5-b5f1-9030c591b2b6</string>
+				<key>dateExpires</key>
+				<string>22/04/23</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NTF3LM6S98</string>
+				<key>name</key>
+				<string>SANITYG GLOBAL SYSTEM PRIVATE LIMITED</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
